@@ -1,0 +1,21 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/ender_pearl"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "custom:item/lols/souls/red" },
+        { "predicate": { "custom_model_data": 2}, "model": "custom:item/lols/souls/orange" },
+        { "predicate": { "custom_model_data": 3}, "model": "custom:item/lols/souls/yellow" },
+		{ "predicate": { "custom_model_data": 4}, "model": "custom:item/lols/souls/green" },
+		{ "predicate": { "custom_model_data": 5}, "model": "custom:item/lols/souls/blue" },
+		{ "predicate": { "custom_model_data": 6}, "model": "custom:item/lols/souls/purple" },
+		{ "predicate": { "custom_model_data": 7}, "model": "custom:item/lols/souls/magenta" },
+		{ "predicate": { "custom_model_data": 8}, "model": "custom:item/lols/souls/brown" },
+		{ "predicate": { "custom_model_data": 9}, "model": "custom:item/lols/souls/dark_grey" },
+        { "predicate": { "custom_model_data": 10}, "model": "custom:item/lols/souls/light_grey" },
+        { "predicate": { "custom_model_data": 11}, "model": "custom:item/lols/totem" },
+
+		{ "predicate": { "custom_model_data": 999}, "model": "minecraft:item/ender_pearl" }
+	]
+}

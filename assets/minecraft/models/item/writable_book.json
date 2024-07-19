@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/writable_book"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "custom:item/lols/books/log" },
+
+		{ "predicate": { "custom_model_data": 999}, "model": "minecraft:item/writable_book" }
+	]
+}
