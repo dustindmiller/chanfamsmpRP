@@ -1,1 +1,0 @@
-tellraw @a ["",{"text":"Custom Lodestone Recipe datapack has been reloaded","bold":true,"color":"white"}]
