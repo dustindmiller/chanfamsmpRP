@@ -17,7 +17,7 @@
 		{ "predicate": { "custom_model_data": 11}, "model": "custom:item/lols/scrolls/savior" },
 		{ "predicate": { "custom_model_data": 12}, "model": "custom:item/lols/ring" },
 		{ "predicate": { "custom_model_data": 13}, "model": "custom:item/paradox/skeleton_key" },
-		
+		{ "predicate": { "custom_model_data": 13}, "model": "custom:item/paradox/access_card" },
 
 		{ "predicate": { "custom_model_data": 999}, "model": "minecraft:item/iron_nugget" }
 	]
