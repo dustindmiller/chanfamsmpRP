@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "select",
+		"property": "custom_model_data",
+		"fallback": {
+			"type": "model",
+			"model": "item/iron_nugget"
+		},
+		"cases": [
+			{
+				"when": "skeleton_key",
+				"model": {
+					"type": "model",
+					"model": "custom:item/paradox/skeleton_key"
+				}
+			}
+		]
+	}
+}
