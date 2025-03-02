@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "minecraft:item/steak",
 	"textures": {
 		"layer0": "custom:item/paradox/access_card"
 	}
