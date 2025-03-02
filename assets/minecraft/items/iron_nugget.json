@@ -6,9 +6,9 @@
 			"type": "model",
 			"model": "item/iron_nugget"
 		},
-		"cases": [
+		"entries": [
 			{
-				"when": "skeleton_key",
+				"threshold": 1,
 				"model": {
 					"type": "model",
 					"model": "custom:item/paradox/skeleton_key"
