@@ -120,6 +120,13 @@
                 }
             },
             {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/chandler"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
