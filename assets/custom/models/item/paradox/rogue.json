@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "custom:item/paradox/stratagem"
+		"layer0": "custom:item/paradox/rogue"
 	}
 }
