@@ -106,6 +106,20 @@
                 }
             },
             {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/adventurer"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/alert"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
