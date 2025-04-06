@@ -246,6 +246,13 @@
                 }
             },
             {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/treasure"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
