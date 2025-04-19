@@ -253,6 +253,69 @@
                 }
             },
             {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/237"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/baseball-bat"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/crimson-flood"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/fireaxe"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/knife"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/redrum"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/tennis-ball"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/tricycle"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/typewriter"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
