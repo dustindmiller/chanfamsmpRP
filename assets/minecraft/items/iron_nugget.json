@@ -316,6 +316,13 @@
                 }
             },
             {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/invitation"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
