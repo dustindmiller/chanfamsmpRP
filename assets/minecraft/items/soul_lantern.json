@@ -12,6 +12,10 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/purple_soul_lantern"
+                },
+                "block": {
+                    "type": "block",
+                    "block": "custom:block/purple_soul_lantern"
                 }
             },
 
