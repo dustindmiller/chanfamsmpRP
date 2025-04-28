@@ -1,5 +1,5 @@
 {
-	"parent": "item/paintings/master_painting",
+	"parent": "item/painting/master_painting",
 	"credit": "DustRyD",
 	"texture_size": [64, 48],
 	"textures": {
