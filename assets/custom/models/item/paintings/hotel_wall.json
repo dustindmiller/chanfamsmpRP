@@ -1,5 +1,5 @@
 {
-	"parent": "custom:item/paintings/hotel_wall",
+	"parent": "item/paintings/master_painting",
 	"credit": "DustRyD",
 	"texture_size": [64, 48],
 	"textures": {
