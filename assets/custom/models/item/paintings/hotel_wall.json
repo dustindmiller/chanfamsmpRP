@@ -1,10 +1,10 @@
 {
-	"parent": "item/paintings/hotel_wall",
+	"parent": "custom:item/paintings/hotel_wall",
 	"credit": "DustRyD",
 	"texture_size": [64, 48],
 	"textures": {
-		"0": "item/paintings/hotel_wall",
-		"1": "painting/back",
-		"particle": "item/paintings/hotel_wall"
+		"0": "custom:item/paintings/hotel_wall",
+		"1": "minecraft:painting/back",
+		"particle": "custom:item/paintings/hotel_wall"
 	}
 }
