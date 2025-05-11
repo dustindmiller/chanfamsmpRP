@@ -323,6 +323,13 @@
                 }
             },
             {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/voucher"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
