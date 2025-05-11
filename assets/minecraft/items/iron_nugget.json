@@ -330,6 +330,34 @@
                 }
             },
             {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/cleric"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/ranger"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/speedster"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/barbarian"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
