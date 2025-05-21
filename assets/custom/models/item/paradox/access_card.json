@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "custom:item/paradox/access_card"
+		"layer0": "custom:item/paradox/items/access_card"
 	}
 }

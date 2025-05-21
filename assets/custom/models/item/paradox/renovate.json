@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "custom:item/paradox/renovate"
+		"layer0": "custom:item/paradox/tokens/renovate"
 	}
 }

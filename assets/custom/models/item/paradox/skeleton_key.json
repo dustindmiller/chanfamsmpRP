@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "custom:item/paradox/skeleton_key"
+		"layer0": "custom:item/paradox/items/skeleton_key"
 	}
 }
