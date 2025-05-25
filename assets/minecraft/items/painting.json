@@ -11,7 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paradox/hidden_wall"
+                    "model": "custom:item/paintings/hidden_wall"
                 }
             },
 
