@@ -357,6 +357,13 @@
                     "model": "custom:item/paradox/barbarian"
                 }
             },
+             {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/dungeon_master"
+                }
+            },
             {
                 "threshold": 999,
                 "model": {
