@@ -15,6 +15,13 @@
                 }
             },
             {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/dustin/fortune_diamond_pickaxe"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
