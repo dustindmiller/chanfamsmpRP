@@ -365,6 +365,69 @@
                 }
             },
             {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/ashs_chainsaw"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/boomstick"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/evil_ashs_crown"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/evil_hand"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/jakes_overalls"
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/kandarian_dagger"
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/lindas_gravemarker"
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/reel-to-reel"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/the_delta"
+                }
+            },
+            {
                 "threshold": 999,
                 "model": {
                     "type": "model",
