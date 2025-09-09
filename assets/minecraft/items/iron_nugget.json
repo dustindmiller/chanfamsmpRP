@@ -410,7 +410,7 @@
                 "threshold": 58,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paradox/lindas_gravemarker"
+                    "model": "custom:item/paradox/lindas_necklace"
                 }
             },
             {
@@ -424,7 +424,7 @@
                 "threshold": 60,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paradox/the_delta"
+                    "model": "custom:item/paradox/mechanical_gauntlet"
                 }
             },
             {
