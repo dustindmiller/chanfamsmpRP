@@ -427,6 +427,13 @@
                     "model": "custom:item/paradox/mechanical_gauntlet"
                 }
             },
+                        {
+                "threshold": 61,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/hidden_wall"
+                }
+            },
             {
                 "threshold": 999,
                 "model": {
