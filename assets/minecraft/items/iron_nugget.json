@@ -431,7 +431,7 @@
                 "threshold": 61,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paintings/hidden_wall"
+                    "model": "custom:item/paintings/hotel_wall"
                 }
             },
             {
