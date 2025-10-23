@@ -434,6 +434,14 @@
                     "model": "custom:item/paintings/hotel_wall"
                 }
             },
+            },
+                        {
+                "threshold": 62,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/black_item_frame"
+                }
+            },
             {
                 "threshold": 999,
                 "model": {
