@@ -1,7 +1,7 @@
 {
 	"pack": {
 		"description": "\u00A7l\u00A75ChanFam SMP \u00A7r\u00A7fResources",
-		"pack_format": 63,
+		"pack_format": 88,
 		"supported_formats": {"min_inclusive": 15, "max_inclusive": 99}
 	}
 }
