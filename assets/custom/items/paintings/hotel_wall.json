@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom:item/paintings/hotel_wall",
+		"particle": "custom:item/paintings/hotel_wall"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 4],
+			"to": [24, 24, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 12, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [12, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 3.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"scale": [3, 3, 3]
+		},
+		"fixed": {
+			"translation": [-16, -16, 0],
+			"scale": [4, 4, 0]
+		}
+	}
+}
