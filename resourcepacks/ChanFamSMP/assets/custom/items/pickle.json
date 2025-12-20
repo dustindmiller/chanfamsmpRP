@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "custom:item/pickle"
+	"model": {
+		"type": "minecraft:model",
+		"model": "custom:item/pickle"
 	}
 }
