@@ -1,6 +1,6 @@
 {
 	"model": {
 		"type": "minecraft:model",
-		"model": "custom:paradox/relics/floor1/237"
+		"model": "custom:item/paradox/237"
 	}
 }
