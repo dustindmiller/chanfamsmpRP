@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "custom:item/purple_soul_lantern"
+	"model": {
+		"type": "minecraft:model",
+		"model": "custom:item/purple_soul_lantern"
 	}
 }
