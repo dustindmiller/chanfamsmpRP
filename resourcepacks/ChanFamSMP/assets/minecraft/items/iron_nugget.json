@@ -441,6 +441,13 @@
                     "model": "custom:item/paintings/black_item_frame"
                 }
             },
+                        {
+                "threshold": 63,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paintings/dark_grey_item_frame"
+                }
+            },
             {
                 "threshold": 999,
                 "model": {
