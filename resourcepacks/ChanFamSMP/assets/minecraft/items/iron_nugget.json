@@ -452,7 +452,7 @@
                 "threshold": 64,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paradox/access_card"
+                    "model": "custom:item/paradox/escape_card"
                 }
             },
             {
