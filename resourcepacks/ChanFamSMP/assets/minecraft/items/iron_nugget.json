@@ -357,7 +357,7 @@
                     "model": "custom:item/paradox/barbarian"
                 }
             },
-             {
+            {
                 "threshold": 51,
                 "model": {
                     "type": "model",
@@ -446,6 +446,13 @@
                 "model": {
                     "type": "model",
                     "model": "custom:item/paintings/dark_grey_item_frame"
+                }
+            },
+                                    {
+                "threshold": 64,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/access_card"
                 }
             },
             {
