@@ -11,7 +11,7 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "custom:item/paradox/items/circus_ball"
+                    "model": "custom:item/paradox/circus_ball"
                 }
             },
             
