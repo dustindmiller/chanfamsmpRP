@@ -455,6 +455,61 @@
                     "model": "custom:item/paradox/escape_card"
                 }
             },
+                                                {
+                "threshold": 65,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/bens_poem_to_beverly"
+                }
+            },                                    {
+                "threshold": 66,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/bills_slingshot"
+                }
+            },                                    {
+                "threshold": 67,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/eddies_inhaler"
+                }
+            },                                    {
+                "threshold": 68,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/georgies_boat"
+                }
+            },                                    {
+                "threshold": 69,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/henrys_switchblade"
+                }
+            },                                    {
+                "threshold": 70,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/lillys_dagger"
+                }
+            },                                    {
+                "threshold": 71,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/mikes_photo_album"
+                }
+            },                                    {
+                "threshold": 72,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/pennywises_balloon"
+                }
+            },                                    {
+                "threshold": 73,
+                "model": {
+                    "type": "model",
+                    "model": "custom:item/paradox/richies_fortune_cookie"
+                }
+            },
             {
                 "threshold": 999,
                 "model": {
